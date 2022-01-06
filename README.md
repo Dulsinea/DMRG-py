@@ -3,8 +3,7 @@
 
 程序代码基于南京大学罗贞老师的[DMRG程序](https://github.com/Alpha-Librae/naiveDMRG)
 
-#### 展示过程的jupyter文档在`程序演示`这个目录下
-## 只需安装jupyter notebook即可使用：
+### 只需安装jupyter notebook即可使用：
 1. 安装python3或者conda
 2. 安装jupyter
  `pip3 install jupyter notebook`
